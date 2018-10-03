@@ -1,0 +1,35 @@
+problem?
+
+when we place an order for a customized product, the usual means of communication are either telephonic conversations or
+visiting the service provider. this process consumes a lot of time and energy on the service provider side.
+
+customer does not know the current status of their order.
+
+
+solution!
+
+service provider can update the statuses of the orders on an app which can notify the customers as well. customers can provide
+reviews, view previous work of the service provider, rate/upvote/downvote other reviews so that future customers see helpful reviews first.
+customer can locate services, filter based on distance radius, orders, reviews.
+
+this reduces the service providers time spent on phone calls.
+increases the audience which can view the service providers work.
+increases transparency to the customer.
+
+
+how?
+
+provider builds a skill catalogue which is visible to customers
+provider enters a new order, adds steps until order completion, attach skill, attach customer contact
+customer notified about the order
+once or twice a day or as per need, provider updates the status of orders, moving them along the steps towards completion
+customer is notified based on their notification settings
+along with status, provider can attach images and notes for the customer
+
+customer searches for a service provider nearby
+checks their catalogue, reviews and ratings
+places order on site
+receives order placed confirmation
+receives updates regarding order status and completion
+adds review for their orders after completion
+endorse the provider for their skills
